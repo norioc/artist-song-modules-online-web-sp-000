@@ -6,9 +6,6 @@ module Findable
       self.all.detect{|diu| diu.name == name}
     end 
     
-    
-    
-    
   end 
 
 end 
